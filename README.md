@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 - 🔭 My field of work: Applied Mathematics (Machine learning methods and theory) and Computational Sciences
 - 🚀 I'm currently working on machine learning for differential equations, this includes two ongoing research  
       on deep neural networks utilizing orthogonal polynomials to numerically solve differential equations, and  
